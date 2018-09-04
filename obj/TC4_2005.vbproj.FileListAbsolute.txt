@@ -1,0 +1,86 @@
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\MyProjects.mdb
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmMain.resources
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.Resources.resources
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.vbproj.GenerateResource.Cache
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmAbout.resources
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmSetup.resources
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmImport.resources
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmFind.resources
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\Lists.mdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\Lists.mdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\MyProjects.mdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmAbout.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmFind.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmImport.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmSetup.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmMain.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.Resources.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.vbproj.GenerateResource.Cache
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\Lists.mdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\MyProjects.mdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.frmAbout.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.frmFind.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.frmImport.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.frmSetup.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.frmMain.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.Resources.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.vbproj.GenerateResource.Cache
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.xml
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.0.exe
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.xml
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.0.pdb
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.0.exe.config
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.0.exe
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.xml
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.0.pdb
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.0.exe
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.0.pdb
+C:\Users\MacMini\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.xml
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.0.exe.manifest
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC Weekly 4.0.application
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\Debug\TC4_2005.frmUpdate.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\TC Weekly 4.0.exe.config
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\TC Weekly 4.0.exe.manifest
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\TC Weekly 4.0.application
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\TC Weekly 4.0.exe
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\TC Weekly 4.0.pdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\TC Weekly 4.xml
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC4_2005.frmUpdate.resources
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC Weekly 4.xml
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\Interop.MSMAPI.dll
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\x86\Debug\AxInterop.MSMAPI.dll
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.1.exe.config
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.1.exe.manifest
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.1.application
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.1.exe
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\bin\Debug\TC Weekly 4.1.pdb
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC Weekly 4.1.exe.manifest
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC Weekly 4.1.application
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC Weekly 4.1.exe
+C:\Users\dolby\Documents\Visual Studio 2005\Projects\TC4_2005\TC4_2005\obj\x86\Debug\TC Weekly 4.1.pdb
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\TC Weekly 4.1.exe.config
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC Weekly 4.1.exe
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC Weekly 4.xml
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC Weekly 4.1.pdb
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\Lists.mdb
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\MyProjects.mdb
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\TC Weekly 4.1.exe.manifest
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\TC Weekly 4.1.application
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\TC Weekly 4.1.exe
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\TC Weekly 4.1.pdb
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\TC Weekly 4.xml
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.frmAbout.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.frmFind.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.frmImport.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.frmSetup.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.frmMain.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.frmUpdate.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.Resources.resources
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC4_2005.vbproj.GenerateResource.Cache
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC Weekly 4.1.exe.manifest
+C:\Users\Garfield\Documents\Visual Studio 2005\Projects\TC_2005V4\TC4_2005\obj\x86\Debug\TC Weekly 4.1.application
